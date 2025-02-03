@@ -10,7 +10,7 @@ A Django-based FAQ management system with multilingual support, WYSIWYG editing,
 ├── docker-compose.yml
 ├── requirements.txt
 ├── LICENSE
-├── core/
+├── config/
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
