@@ -4,23 +4,41 @@ A Django-based FAQ management system with multilingual support, WYSIWYG editing,
 
 ## Directory structure
 .
+
 ├── Dockerfile
+
 ├── docker-compose.yml
+
 ├── requirements.txt
+
 ├── core/
+
 │   ├── __init__.py
+
 │   ├── settings.py
+
 │   ├── urls.py
+
 │   └── wsgi.py
+
 ├── faq/
+
 │   ├── __init__.py
+
 │   ├── admin.py
+
 │   ├── apps.py
+
 │   ├── models.py
+
 │   ├── serializers.py
+
 │   ├── tests.py
+
 │   ├── urls.py
+
 │   └── views.py
+
 └── README.md
 
 
